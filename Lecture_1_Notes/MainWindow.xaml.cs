@@ -14,6 +14,7 @@ namespace Lecture_1_Notes
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    // hi i am rafael
     public partial class MainWindow : Window
     {
         public MainWindow()
